@@ -1,13 +1,14 @@
-### Hi there 👋, my name is Tomasz Henisz
+### Hi there 👋, my name is Tomasz
 #### I am an engineer
 
-Lorem Ipsum........
+I have 8 years of experience in developing 4G solutions,
+but my side projects gravitate towards anything involving programming and electronics.
+I'm especially keen on creating things related to music, such as guitar effects, both analogue and digital, amplifiers and others.
+More to be documented soon.
 
-- 🔭 I’m currently working on own projects for ARM microcontrollers 
-- 🌱 I’m currently learning FreeRTOS 
-- 👯 I’m looking to collaborate on sdfg 
-- 🤔 I’m looking for help with sdfgh 
-- 💬 Ask me about sdfgh 
+- 🔭 I’m currently working on: my own projects for ARM microcontrollers 
+- 🌱 I’m currently learning: FreeRTOS 
+- 🦾 Next objective to explore: maybe some QT
 - 📫 How to reach me: thenisz@gmail.com
 - ⚡ Fun fact: besides engineering I play various musical instruments, such as guitar, bass, drums, Hammond organ and Irish low whistle.
 
